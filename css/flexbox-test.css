@@ -1,0 +1,114 @@
+body {
+  /* border: 10px solid rgba(220, 20, 60, 0.25); */
+}
+/* header { */
+#home {
+  /* border: 10px solid rgba(255, 255, 255, 0.25); */
+}
+
+/* hero */
+.hero {
+  border-left: 10px solid rgba(44, 174, 186, 0.125);
+  border-right: 10px solid rgba(44, 174, 186, 0.125);
+}
+.hero-banner {
+  border: 10px solid rgba(44, 174, 186, 0.25);
+  padding: 1rem;
+  margin: 1rem;
+}
+
+/* about */
+#about {
+  border-left: 10px solid rgba(220, 20, 60, 0.25);
+  border-right: 10px solid rgba(220, 20, 60, 0.25);
+  border-top: 2px dashed lightgrey;
+}
+.section-center {
+  border: 5px solid rgba(220, 20, 60, 0.5);
+}
+.about-center {
+  background: rgba(220, 20, 60, 0.125);
+}
+.about-img,
+.about-info {
+  border: 2px solid rgba(220, 20, 60, 0.75);
+}
+
+/* services */
+#services {
+  border-left: 10px solid rgba(50, 205, 50, 0.25);
+  border-right: 10px solid rgba(50, 205, 50, 0.25);
+  border-top: 2px dashed lightgrey;
+}
+.service {
+  border: 5px solid rgba(50, 205, 50, 0.5);
+}
+.service-icon,
+.service-info {
+  border: 2px solid rgba(50, 205, 50, 0.75);
+}
+
+/* featured */
+#featured {
+  border-left: 10px solid rgba(220, 20, 60, 0.25);
+  border-right: 10px solid rgba(220, 20, 60, 0.25);
+  border-top: 2px dashed lightgrey;
+}
+.tour-card {
+  border: 2px solid rgba(220, 20, 60, 0.75);
+}
+
+/* contact */
+#contact {
+  border-left: 10px solid rgba(50, 205, 50, 0.25);
+  border-right: 10px solid rgba(50, 205, 50, 0.25);
+  border-top: 2px dashed lightgrey;
+}
+.contact-title,
+.contact-form {
+  border: 5px solid rgba(50, 205, 50, 0.5);
+}
+
+/* gallery */
+#gallery {
+  border-left: 10px solid rgba(220, 20, 60, 0.25);
+  border-right: 10px solid rgba(220, 20, 60, 0.25);
+  border-top: 2px dashed lightgrey;
+}
+.gallery-img-container {
+  border: 5px solid rgba(220, 20, 60, 0.5);
+}
+
+/* footer */
+.footer {
+  border-left: 10px solid rgba(50, 205, 50, 0.25);
+  border-right: 10px solid rgba(50, 205, 50, 0.25);
+  border-top: 2px dashed lightgrey;
+}
+.footer-links,
+.footer-icons,
+.copyright {
+  border: 5px solid rgba(50, 205, 50, 0.5);
+}
+
+/* navbar */
+.navbar {
+  border-left: 10px solid rgba(220, 20, 60, 0.25);
+  border-right: 10px solid rgba(220, 20, 60, 0.25);
+}
+.nav-center {
+  border: 5px solid rgba(148, 0, 211, 0.5);
+}
+.nav-header,
+.nav-links,
+.nav-icons {
+  border: 5px solid rgba(220, 20, 60, 0.5);
+}
+.nav-logo,
+.nav-toggle {
+  border: 2px solid rgba(220, 20, 60, 0.75);
+}
+.nav-link,
+.nav-icon {
+  border: 1px dashed rgba(220, 20, 60, 0.75);
+}
